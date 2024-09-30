@@ -28,6 +28,6 @@ git push
 
 `git add .` adds everything that's changed in the folder to the path to be uploaded
 
-`git commit -m 'message'` creates a message for users to know what was changed, in this case, the message is 'message'
+`git commit -m "message"` creates a message for users to know what was changed, in this case, the message is 'message'
 
 `git push` pushes the changes onto github. The github repository should match your local repository after doing this command. 
