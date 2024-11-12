@@ -2,9 +2,10 @@ ITEM NO.,PART NUMBER,DESCRIPTION,LINK,QTY.
 1,chassie v4,Body spike,N/A,1
 2,motor drive mount,PLA,N/A,2
 3,cover plate,PLA,N/A,1
-5,weapon mini,PLA 100% infill,N/A,1
-6,weapon mount 1,PLA,N/A,1
-7,weapon mount 2,PLA,N/A,1
+4,weapon mini,PLA 100% infill,N/A,1
+5,weapon mount 1,PLA,N/A,1
+6,weapon mount 2,PLA,N/A,1
+7,teeth armor,PLA,N/A,1
 8,wheels,2x0.75in foam wheels,https://www.fingertechrobotics.com/proddetail.php?prod=ft-foam-wheels,2
 9,battery with cables,Gaoneng GNB 11.4V 3S 380mAh 90C LiHV Micro Battery - XT30 ,https://www.racedayquads.com/products/gaoneng-gnb-11-4v-3s-380mah-90c-lihv-micro-battery-xt30?currency=USD&variant=40203893604465&stkn=ed68f1cb6bdd&gad_source=1,1
 10,FingerTech_Silver_Spark_11,16mm shaft,https://www.fingertechrobotics.com/proddetail.php?prod=ft-Sspark16,2
@@ -16,7 +17,7 @@ ITEM NO.,PART NUMBER,DESCRIPTION,LINK,QTY.
 16,2207 motor,TMOTOR Velox V2207 V3 Brushless Drone Motor,https://shop.tmotor.com/products/tmotor-velox-v2207-v3-motor,1
 17,5972K197,Ball Bearing 5mm ,https://www.mcmaster.com/products/bearings/ball-bearings~/ball-bearings-8/shaft-diameter~5-mm/,1
 18,91290A115,Alloy Steel Socket Head Screw,https://www.mcmaster.com/catalog/130/3544/91290A115,12
-20,91290A117,Alloy Steel Socket Head Screw,https://www.mcmaster.com/catalog/130/3544/91290A119,4
-19,91290A123,Alloy Steel Socket Head Screw,https://www.mcmaster.com/catalog/130/3544/91290A123,4
-22,2-56 Button head screws,"Button Socket Cap Screw: #2-56 3/16"" Length Under Head  Alloy Steel Black Oxide ",https://www.fingertechrobotics.com/proddetail.php?prod=screw256BH-25pcs,4
-21,Head inserts,Brass Tapping Inserts for Plastic,https://www.amazon.com/Threaded-Inserts-Printing-Embedment-Automotive/dp/B0BQJ6CRNJ?crid=1K2XNDL6XFOK8&keywords=heat+set+insert+m3&qid=1707253294&sprefix=heat+set+insert+m3%2Caps%2C71&sr=8-2,16
+19,91290A117,Alloy Steel Socket Head Screw,https://www.mcmaster.com/catalog/130/3544/91290A119,4
+20,91290A123,Alloy Steel Socket Head Screw,https://www.mcmaster.com/catalog/130/3544/91290A123,4
+21,2-56 Button head screws,"Button Socket Cap Screw: #2-56 3/16"" Length Under Head  Alloy Steel Black Oxide ",https://www.fingertechrobotics.com/proddetail.php?prod=screw256BH-25pcs,4
+22,Head inserts,Brass Tapping Inserts for Plastic,https://www.amazon.com/Threaded-Inserts-Printing-Embedment-Automotive/dp/B0BQJ6CRNJ?crid=1K2XNDL6XFOK8&keywords=heat+set+insert+m3&qid=1707253294&sprefix=heat+set+insert+m3%2Caps%2C71&sr=8-2,16
