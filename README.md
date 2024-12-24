@@ -1,33 +1,42 @@
 # Spike
-Files for Spike
+Spike is a 1lb combat robot designed to participate at the competition known as the SCR@M: https://leatherbacks.notion.site/SCR-M-Allowed-Parts-List-7415e14e8c94436496a05054f4add28d
+This event was organized by the combat robotics club Leathebacks Robotics UMD: https://www.instagram.com/leatherbacks.umd/
 
-## Instructions for download/upload
+## Type of robot
+Spike is a vertical spinner robot. It's body structure was made of PLA with about 15% in-fill on average.
 
-### Download:
+## Part List
+See document attached bill of materials.csv
 
-Make sure git is installed.
+## CAD Design 
+The software used was Solidworks 2024 Student Edition
+First Version 
+![image](https://github.com/user-attachments/assets/03042c93-51ff-451d-b99b-1ada43da2cfe)
 
-To make a copy of this repository, go into your command line and input:
-```bash 
-git clone git@github.com:KylieGong/Spike.git
-```
+Spike last version
+![image](https://github.com/user-attachments/assets/a0dbe8a1-501e-4abd-a62f-ffdd33fd476c)
 
-### Upload:
+## Ready before fight
+![IMG_20241123_111144691](https://github.com/user-attachments/assets/05c1d746-6a88-451d-ad80-5ffe984fdb24)
 
-You can directly upload files into the repository using the github website.
+## Fight!
 
-Otherwise, you can add files/change files in your local folder of this repository and upload your changes into github by doing the following:
+![IMG_20241123_142848985](https://github.com/user-attachments/assets/ad337522-64e1-4bec-aafe-163420184793)
 
-* Navigate to your folder in the command line
-* Do the following commands:
-```bash
-git add .
-git commit -m 'message'
-git push
-```
+https://photos.app.goo.gl/Wb8rTZ4aMuBoXnDs7
 
-`git add .` adds everything that's changed in the folder to the path to be uploaded
+## After fight 
+![IMG_20241123_145029470](https://github.com/user-attachments/assets/6cf35c5c-c8c2-45a6-a91b-16ca44507370)
 
-`git commit -m "message"` creates a message for users to know what was changed, in this case, the message is 'message'
+## Future improvements 
+Change the way the weapon mounts are attached.
+Determine a better attack angle for the spinner.
+Check zones that can be reduced without pushing the electrical wiring and components inside. 
+Try new ideas for fastening.
+Design a different geometry for the saw.
 
-`git push` pushes the changes onto github. The github repository should match your local repository after doing this command. 
+## Lessons Learned
+Tolerances are crucial to achieve some design requirements. 
+Measure every component if available so less corrections are required.
+Look for the simple ways to fasten and assembly together components. 
+In real there's always fixes on  we can do at the cost of performance (eg: plastic welding)
