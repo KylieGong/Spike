@@ -1,9 +1,11 @@
 # Spike
-Spike is a 1lb combat robot designed to participate at the competition known as the SCR@M: https://leatherbacks.notion.site/SCR-M-Allowed-Parts-List-7415e14e8c94436496a05054f4add28d
-This event was organized by the combat robotics club Leathebacks Robotics UMD: https://www.instagram.com/leatherbacks.umd/
+Spike is a 1lb combat robot designed to participate at the competition known 
+as the **SCR@M**: https://leatherbacks.notion.site/SCR-M-Allowed-Parts-List-7415e14e8c94436496a05054f4add28d
+This event was organized by the combat robotics club **Leathebacks** Robotics UMD: https://www.instagram.com/leatherbacks.umd/
 
 ## Type of robot
-Spike is a vertical spinner robot. It's body structure was made of PLA with about 15% in-fill on average.
+Spike is a vertical spinner robot with two teeths and guards attached to the front so it can break in half whoever stands in its way. 
+It's body structure was made of PLA with about 15% in-fill on average.
 
 ## Part List
 See document attached bill of materials.csv
