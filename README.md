@@ -13,13 +13,13 @@ See document attached bill of materials.csv
 ## CAD Design 
 The software used was Solidworks 2024 Student Edition
 First Version 
-![image](https://github.com/user-attachments/assets/03042c93-51ff-451d-b99b-1ada43da2cfe)
+![image](https://github.com/user-attachments/assets/ec37cba7-6dea-4d69-a12a-802f60ccd266)
 
 Spike last version
 ![image](https://github.com/user-attachments/assets/a0dbe8a1-501e-4abd-a62f-ffdd33fd476c)
 
 ## Ready before fight
-![IMG_20241123_111144691](https://github.com/user-attachments/assets/05c1d746-6a88-451d-ad80-5ffe984fdb24)
+![IMG_20241123_114230120-1](https://github.com/user-attachments/assets/510326fd-d855-4bba-957d-80800023c93d)
 
 ## Fight!
 
