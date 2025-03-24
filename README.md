@@ -36,14 +36,14 @@ https://photos.app.goo.gl/Wb8rTZ4aMuBoXnDs7
 ![IMG_20241123_145029470](https://github.com/user-attachments/assets/6cf35c5c-c8c2-45a6-a91b-16ca44507370)
 
 ## Future improvements 
-Change the way the weapon mounts are attached.
-Determine a better attack angle for the spinner.
-Check zones that can be reduced without pushing the electrical wiring and components inside. 
-Try new ideas for fastening.
-Design a different geometry for the saw.
+- Change the way the weapon mounts are attached.
+- Determine a better attack angle for the spinner.
+- Check zones that can be reduced without pushing the electrical wiring and components inside. 
+- Try new ideas for fastening.
+- Design a different geometry for the saw.
 
 ## Lessons Learned
-Tolerances are crucial to achieve some design requirements. 
-Measure every component if available so less corrections are required.
-Look for the simple ways to fasten and assembly together components. 
-In real there's always fixes on  we can do at the cost of performance (eg: plastic welding)
+- Tolerances are crucial to achieve some design requirements. 
+- Measure every component if available so less corrections are required.
+- Look for the simple ways to fasten and assembly together components. 
+- In real there's always fixes on  we can do at the cost of performance (eg: plastic welding)
